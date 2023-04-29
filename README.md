@@ -1,2 +1,2 @@
-# Creating-scripted-local-site
-Creating scripted local site/Criando site local com script/Creación de un sitio local con scrypt
+# Creating site on local network with script
+Creating site on local network with script/Criando site na rede local com script/Creando sitio en red local con script
